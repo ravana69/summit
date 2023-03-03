@@ -1,0 +1,4 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+16:30:05	485/485	---M--	200	added ('OK')	text/html	etag:%221e5-56920f7caf8f5%22	http://nicolassassoon.com/SUMMIT.html	C:/My%20Web%20Sites/SUMMIT/nicolassassoon.com/SUMMIT.html	(from )
+16:30:06	0/0	---M--	200	added ('OK')	text/plain	date:Fri,%2003%20Mar%202023%2011:00:06%20GMT	http://nicolassassoon.com/robots.txt		(from )
+16:32:34	3048910/3048910	---M--	200	added ('OK')	image/gif	etag:%222e85ce-56920e42ed834%22	http://nicolassassoon.com/IMAGES/SUMMIT.gif	C:/My%20Web%20Sites/SUMMIT/nicolassassoon.com/IMAGES/SUMMIT.gif	(from http://nicolassassoon.com/SUMMIT.html)
